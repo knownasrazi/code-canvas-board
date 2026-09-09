@@ -1,58 +1,31 @@
-﻿<div align="center">
-
-# code-canvas-board
-
-**Your second brain for code.**
-
-![license](https://img.shields.io/github/license/knownasrazi/code-canvas-board?style=flat-square&color=ebe7e0&label=license)
-![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square&label=version)
-![cream](https://img.shields.io/badge/cream-aesthetic-ede9e3?style=flat-square&label=style)
-
-Collaborative snippet board - canvas for code, notes, and vibe context.
-
-</div>
+> ![license](https://img.shields.io/github/license/knownasrazi/code-canvas-board?style=flat-square&color=ebe7e0) ![lang](https://img.shields.io/badge/lang-React%20%2B%20Canvas-ede9e3?style=flat-square) ![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square)
 
 ---
 
-## Preview
+# code-canvas-board — Your second brain for code.
 
-> Your second brain for code. - built for vibe coders and web developers who ship.
+Collaborative snippet board - canvas for code, notes, and vibe context.
 
-## Stack
+---
 
-- Vite + React + TypeScript
-- Tailwind CSS (cream palette)
-- Biome for lint and format
+## Changelog-aware
 
-## Get started
+This README is the changelog. Every release is a commit.
+
+**v1.0.0** — Initial cream release. React + Canvas core, stone tokens, and a clean surface.
+
+## Install
 
 ```bash
 git clone https://github.com/knownasrazi/code-canvas-board.git
 cd code-canvas-board
-bun install
-bun run dev
-```
-code-canvas-board/
-  src/
-    App.tsx      # app shell
-    index.css    # cream tokens
-  index.html
-  vite.config.ts
-  package.json
+bun install && bun run dev
 ```
 
-## Cream tokens
+## Why cream?
 
-Cream, stone, and ink - low contrast, high taste.
+Because tools should feel like paper. Cream is paper that has lived a little.
 
 ## License
 
-[MIT](./LICENSE) + [Razi](https://github.com/knownasrazi)
-
----
-
-<div align="center">
-
-**code-canvas-board** - Collaborative snippet board - canvas for code, notes, and vibe context.
-
-</div>
+MIT — [Razi](https://github.com/knownasrazi)
