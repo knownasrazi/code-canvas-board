@@ -1,6 +1,17 @@
 > ![license](https://img.shields.io/github/license/knownasrazi/code-canvas-board?style=flat-square&color=ebe7e0) ![lang](https://img.shields.io/badge/lang-React%20%2B%20Canvas-ede9e3?style=flat-square) ![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square)
 
 ---
+## Demo
+
+![Demo](./public/demo.svg)
+
+**Live:** https://knownasrazi.github.io/code-canvas-board/
+
+> Screenshot is a placeholder — Pages deploys on push to `main`.
+
+---
+
+
 
 # code-canvas-board — Your second brain for code.
 
